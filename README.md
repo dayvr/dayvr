@@ -1,8 +1,5 @@
 ### Hi there! 👋
 
-<!--
-**dayvr/dayvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My name is Day and I am a BD in Software Development Student
 
 - 🔭 I’m currently working on something cool
