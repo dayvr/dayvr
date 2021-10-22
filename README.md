@@ -1,5 +1,5 @@
 ### Hi there!👋🏻
-My name is Day and I am a BD in Software Development Student
+I am a BD in Software Development Student
 
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning everything 🤣
