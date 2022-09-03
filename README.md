@@ -1,5 +1,5 @@
 ### Hi there!👋🏻
-I am a BD in Software Development Student
+I am a BD student in Software Development
 
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning everything 🤣
